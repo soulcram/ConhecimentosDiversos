@@ -22,6 +22,10 @@ Aperte Win + R, digite charmap, pressione Enter.
 
 Escolha o símbolo e clique em "Selecionar" → "Copiar".
 
+## Meu Status
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=soulcram&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 # This is a Heading h1
 ## This is a Heading h2
 ###### This is a Heading h6
