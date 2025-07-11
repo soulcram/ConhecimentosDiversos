@@ -19,3 +19,5 @@ dotnet new --list web
 |Aplicação MAUI	| dotnet new maui	| Aplicação multiplataforma (Android/iOS/Desktop). Requer .NET MAUI configurado. |
 |Projeto de Testes	| dotnet new xunit	| Projeto de testes com xUnit. |
 |Solução (.sln)	| dotnet new sln	| Cria um arquivo de solução (como no Visual Studio). |
+
+exemplo de uso -> dotnet new console -n AprendendoDotNet
